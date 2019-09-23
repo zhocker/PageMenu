@@ -1,3 +1,14 @@
+### IF YOU LOOKING FOR PageMenu SUPPORT SWIFT VERSION 4. HERE I AM!!!!!!
+###
+### <a href="https://github.com/PageMenu/PageMenu">PageMenu</a> don't support Swift Version 4 Anymore. That's why I fork project and change little code for support Swift Version 4. I hope this is heal your pain if you are the person want to migrate framework for a big project.
+
+Drag all of this into your project and remove 'PageMenu' from Podfile in your project <a href="https://ibb.co/y8HNV4n"><img src="https://i.ibb.co/Q6yJXDF/Screen-Shot-2019-09-23-at-11-29-45-AM.png" alt="Screen-Shot-2019-09-23-at-11-29-45-AM" border="0" /></a> =============================================
+###
+###
+###
+###
+###
+###
 <img src="https://raw.githubusercontent.com/uacaps/ResourceRepo/master/PageMenu/PageMenuHeader3.png" alt="PageMenuHeader">
 
 [![Version](https://img.shields.io/cocoapods/v/PageMenu.svg?style=flat)](http://cocoapods.org/pods/PageMenu)
